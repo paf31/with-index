@@ -1,9 +1,13 @@
 name:                with-index
+synopsis:            A tiny library for composing indexed traversals
 version:             0.1.0.0
 license:             BSD3
 build-type:          Simple
 copyright:           2017 Phil Freeman
 author:              Phil Freeman
+maintainer:          Phil Freeman
+homepage:            https://github.com/paf31/with-index
+category:            Data, Lenses
 cabal-version:       >=1.10
 
 library
